@@ -1,0 +1,13 @@
+git init
+
+// bad az inke New Project shod toye github
+// toye pc Folder git Ad ishe toye 
+git clone https://github.com/bensaeed/TestSec.git
+
+
+// bad az inke code zadeh shod
+git add .
+git commit -m "first commit"
+
+git remote add origin https://github.com/bensaeed/TestSec.git
+git push -u origin master

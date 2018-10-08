@@ -11,6 +11,7 @@ namespace ConsoleAppTestGithub
         static void Main(string[] args)
         {
             Console.WriteLine("salam");
+            Console.ReadLine();
         }
     }
 }
